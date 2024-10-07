@@ -44,3 +44,6 @@ Explore each component to see how Chacka360 can enhance agricultural productivit
 - **Alfred Addison Chillitupa Quispihuanca**  
   Email: [alfred.chillitupa@ucsp.edu.pe](mailto:alfred.chillitupa@ucsp.edu.pe)  
   GitHub: [Alfred Chillitupa](https://github.com/Alfred-CQ)
+
+## 🌟 **Demo Presentation** 🌟
+**Check out our demo presentation on Canva:** [**Chacka360 Demo Presentation**](https://www.canva.com/design/DAGSwj9u8FY/OsYKgevyE82RYvVIGhcdjg/view?utm_content=DAGSwj9u8FY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
