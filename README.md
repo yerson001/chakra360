@@ -3,7 +3,7 @@
 ## Challenge
 ![Chacka360 Challenge](/images/challenge.PNG)
 
-![Chacka360 App Screenshot](/images/gooapp.jpg)
+![Chacka360 Challenge](/images/gooapp.jpg)
 Chacka360 is an advanced solution designed to optimize agricultural production through UAVs (drones) and environmental sensor technologies. The platform empowers farmers to analyze vast tracts of land and make informed decisions based on real-time data and NASA satellite information.
 
 ## Key Features
@@ -14,25 +14,17 @@ Chacka360 is an advanced solution designed to optimize agricultural production t
 
 ## Project Components
 
-### 1. Flutter Application
-The mobile/dashboard application developed in Flutter allows farmers to visualize real-time data collected by the drone.
-
-**[Link to Flutter Repository](https://github.com/yysy001/NasaSpaceChallenge)**
-
-### 2. Weather Station with ESP32
-A sensor system built on an **ESP32** that collects real-time data from various environmental sensors and transmits it to the **Chacka360** platform.
-
-**[Link to ESP32 Repository](https://github.com/yysy001/NasaSpaceChallengeHard)**
-
-### 3. AI Prediction System
-Utilizes satellite data from NASA to make predictions about climatic and terrain conditions using advanced AI algorithms.
-
-**[Link to AI Prediction Repository](https://github.com/yysy001/NasaSpaceChanllengeIA)**
+| Component                                 | Description                                                                                       | Repository Link                                      |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| **Flutter Application**                   | The mobile/dashboard application developed in Flutter allows farmers to visualize real-time data collected by the drone. | [Link to Flutter Repository](https://github.com/yysy001/NasaSpaceChallenge) |
+| **Weather Station with ESP32**           | A sensor system built on an **ESP32** that collects real-time data from various environmental sensors and transmits it to the **Chacka360** platform. | [Link to ESP32 Repository](https://github.com/yysy001/NasaSpaceChallengeHard) |
+| **AI Prediction System**                  | Utilizes satellite data from NASA to make predictions about climatic and terrain conditions using advanced AI algorithms. | [Link to AI Prediction Repository](https://github.com/yysy001/NasaSpaceChanllengeIA) |
 
 ## Get Started
 Explore each component to see how Chacka360 can enhance agricultural productivity and decision-making. Click on the links above to dive deeper into each repository!
 
 ## Team Members
+
 - **Anthony Wilfredo Mamani Mamani**  
   Email: [anthony.mamani@ucsp.edu.pe](mailto:anthony.mamani@ucsp.edu.pe)  
   LinkedIn: [Anthony Mamani](https://linkedin.com/in/anthony-mamani-mamani-08768b1b4)
@@ -45,5 +37,7 @@ Explore each component to see how Chacka360 can enhance agricultural productivit
   Email: [alfred.chillitupa@ucsp.edu.pe](mailto:alfred.chillitupa@ucsp.edu.pe)  
   GitHub: [Alfred Chillitupa](https://github.com/Alfred-CQ)
 
-## 🌟 **Demo Presentation** 🌟
-**Check out our demo presentation on Canva:** [**Chacka360 Demo Presentation**](https://www.canva.com/design/DAGSwj9u8FY/OsYKgevyE82RYvVIGhcdjg/view?utm_content=DAGSwj9u8FY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## Demo Presentation
+Check out our demo presentation on Canva to see Chacka360 in action:
+
+[View Demo Presentation](https://www.canva.com/design/DAGSwj9u8FY/OsYKgevyE82RYvVIGhcdjg/view?utm_content=DAGSwj9u8FY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
