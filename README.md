@@ -1,5 +1,10 @@
 # Chacka360 - Plataforma de Agricultura Inteligente
 
+
+
+![Texto alternativo](/images/gooapp.jpg)
+
+
 Chacka360 es una solución avanzada diseñada para optimizar la producción agrícola mediante el uso de UAVs (drones) y tecnologías de sensores ambientales. La plataforma permite a los agricultores analizar grandes extensiones de terreno y tomar decisiones informadas sobre los cultivos más adecuados para sus campos, basándose en datos en tiempo real y datos satelitales de la NASA.
 
 ## Características principales:
@@ -14,24 +19,26 @@ Chacka360 es una solución avanzada diseñada para optimizar la producción agr�
 
 La aplicación móvil/dashbord fue desarrollada en Flutter y permite a los agricultores visualizar los datos recopilados por el dron en tiempo real. La app ha sido probada tanto en **Android** como en la **web**.
 
-**Repositorio Flutter**: [Link al Repositorio Flutter](https://github.com/tu-repositorio-flutter)
+**Repositorio Flutter**: [Link al Repositorio Flutter](https://github.com/yysy001/NasaSpaceChallenge)
 
 #### Instrucciones para correr la aplicación:
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tu-repositorio-flutter.git
+   git clone https://github.com/yysy001/NasaSpaceChallenge
 
 2. Accede al directorio del proyecto 
    ```bash
-   git clone https://github.com/tu-repositorio-flutter.git
+   cd NasaSpaceChallenge
 
 3. Instala las dependencias:  
    ```bash
-   git clone https://github.com/tu-repositorio-flutter.git
+   flutter pub get
+   
+   flutter pub run build_runner watch
 
 4. Corre la aplicación
    ```bash
-   git clone https://github.com/tu-repositorio-flutter.git
+   flutter run
 
 
 ## 2. Estación Meteorológica con ESP32
@@ -46,7 +53,7 @@ El sistema de sensores está construido sobre un **ESP32** y recopila datos en t
 - **Temperatura**: Expresada en grados Celsius (°C).
 - **Calidad del aire**: Medida en partes por millón (PPM).
 
-**Repositorio del Sistema de Sensores**: [Link al Repositorio de ESP32](https://github.com/tu-repositorio-esp32)
+**Repositorio del Sistema de Sensores**: [Link al Repositorio de ESP32](https://github.com/yysy001/NasaSpaceChallengeHard)
 
 ## 3. Carcasa Impresa en 3D
 
