@@ -1,4 +1,4 @@
-# Chacka360 - Intelligent Agriculture Platform
+# Chakra360 - Intelligent Agriculture Platform
 
 ## Challenge
 ![Chacka360 Challenge](/images/challenge.PNG)
