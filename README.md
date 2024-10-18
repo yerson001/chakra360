@@ -3,7 +3,7 @@
 ## Challenge
 ![Chacka360 Challenge](/images/challenge.PNG)
 
-![Chacka360 Challenge](/images/gooapp.jpg)
+![Chakra360 Challenge](/images/gooapp.jpg)
 Chacka360 is an advanced solution designed to optimize agricultural production through UAVs (drones) and environmental sensor technologies. The platform empowers farmers to analyze vast tracts of land and make informed decisions based on real-time data and NASA satellite information.
 
 ## Key Features
